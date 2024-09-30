@@ -1,0 +1,4 @@
+.venv/
+env/
+fine_tuned_t5_model/
+*.bin
